@@ -10,12 +10,10 @@ DOMAIN-SUFFIX,line-cdn.net
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,nhncorp.jp
 
-# > Sony
-DOMAIN-SUFFIX,playstation.com
-DOMAIN-SUFFIX,playstation.net
-DOMAIN-SUFFIX,playstationnetwork.com
-DOMAIN-SUFFIX,sony.com
-DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+# > Riot Games
+DOMAIN-SUFFIX,riotcdn.net
+DOMAIN-SUFFIX,wr.pvp.net
+DOMAIN-SUFFIX,riotgames.com
 
 # > Spark
 DOMAIN-SUFFIX,api.amplitude.com
@@ -142,6 +140,7 @@ DOMAIN-SUFFIX,cnn.com
 DOMAIN-SUFFIX,cocoapods.org
 DOMAIN-SUFFIX,comodoca.com
 DOMAIN-SUFFIX,content.office.net
+DOMAIN-SUFFIX,crisp.chat
 DOMAIN-SUFFIX,culturedcode.com
 DOMAIN-SUFFIX,cygames.jp
 DOMAIN-SUFFIX,d.pr
@@ -307,6 +306,7 @@ DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,megaupload.com
 DOMAIN-SUFFIX,microsofttranslator.com
 DOMAIN-SUFFIX,mindnode.com
+DOMAIN-SUFFIX,mixin.one
 DOMAIN-SUFFIX,mlssoccer.com
 DOMAIN-SUFFIX,mobile01.com
 DOMAIN-SUFFIX,modmyi.com
@@ -651,6 +651,7 @@ DOMAIN-SUFFIX,gcr.io
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,gosetsuden.jp
 DOMAIN-SUFFIX,gwtproject.org
+DOMAIN-SUFFIX,hackmd.io
 DOMAIN-SUFFIX,heroku.com
 DOMAIN-SUFFIX,html5rocks.com
 DOMAIN-SUFFIX,keyhole.com
